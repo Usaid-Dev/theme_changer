@@ -4,13 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is for changing theme.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h4>Light_Mode</h4>
+<img src="https://user-images.githubusercontent.com/67046451/194807839-668aa7f3-dd42-4f73-b393-bdaa9079df9c.png" width="150" height="280">
+<h4>Dark_Mode</h4>
+<img src="https://user-images.githubusercontent.com/67046451/194807941-b5c344f4-28d4-46f4-adc9-13d500bb2c67.png" width="150" height="280">
